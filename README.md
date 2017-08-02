@@ -36,7 +36,7 @@ export default (props) => {
 
 You will get an AppStore dwonload button on Web page looks like this:
 
-![https://github.com/arkilis/react-AppStore-Button/blob/master/img/example.png](https://github.com/arkilis/react-AppStore-Button/blob/master/img/example.png)
+![http://www.arkilis.me/wp-content/uploads/2017/08/neal-react-Declarative-landing-pages-for-react.js-2017-08-03-09-14-19.png](http://www.arkilis.me/wp-content/uploads/2017/08/neal-react-Declarative-landing-pages-for-react.js-2017-08-03-09-14-19.png)
 
 
 
