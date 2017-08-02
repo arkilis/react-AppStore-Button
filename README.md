@@ -33,7 +33,7 @@ export default (props) => {
 
 ```
 
-You will get an App on Web page looks like:
+You will get an AppStore dwonload button on Web page looks like this:
 
 ![https://github.com/arkilis/react-AppStore-Button/blob/master/img/example.png](https://github.com/arkilis/react-AppStore-Button/blob/master/img/example.png)
 
