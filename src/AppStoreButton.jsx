@@ -1,7 +1,6 @@
 import React from "react"
 
-class AppStoreButton extends React.Component {
-  render() {
+const MyComponent = props => {
 
     const imgUrl = "http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg";
     const aStyle = {
@@ -12,7 +11,7 @@ class AppStoreButton extends React.Component {
       height:  this.props.height || 40,
     };
     
-    return (
+    return
       <div>
         <a
           style = {aStyle}
@@ -20,8 +19,6 @@ class AppStoreButton extends React.Component {
           >
         </a>
       </div>
-    )
-  }
 }
 
 

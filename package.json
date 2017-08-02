@@ -1,6 +1,6 @@
 {
   "name": "react-appstore-button",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "description": "An react component which allows you to place an App Store Download button very easily!",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "Store",
     "AppStore",
     "button",
-    "button",
+    "AppStore button",
     "react",
     "react",
     "component"
@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/arkilis/react-AppStore-Button/issues"
   },
-  "homepage": "https://github.com/arkilis/react-AppStore-Button#readme"
+  "homepage": "https://github.com/arkilis/react-AppStore-Button#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "react": "^15.6.1"
+  }
 }
