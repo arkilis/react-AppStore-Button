@@ -1,4 +1,4 @@
-##react-appstore-button
+## react-appstore-button
 
 version: 0.0.5
 
@@ -9,7 +9,7 @@ An React component which allows you to create an AppStore Download Button in a f
 * Can specify your App Store `url`, `width` and `height`
 
 
-##Usage
+## Usage
 
 Example Code:
 
@@ -35,10 +35,11 @@ export default (props) => {
 
 You will get an App on Web page looks like:
 
+![https://github.com/arkilis/react-AppStore-Button/blob/master/img/example.png](https://github.com/arkilis/react-AppStore-Button/blob/master/img/example.png)
 
 
 
-##Install
+## Install
 
 install using `npm`
 
@@ -52,6 +53,6 @@ If you have any suggestion on this, any `Pull request` is welcome.
 My email address: arkilis@gmail.com.
 
 
-##License
+## License
 MIT
 
