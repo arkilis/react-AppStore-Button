@@ -1,4 +1,4 @@
-import AppStoreButton from './src/AppStoreButton';
+import AppStoreButton from './lib/AppStoreButton';
 
 module.exports = {
     AppStoreButton 
