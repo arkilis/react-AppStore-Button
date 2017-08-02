@@ -3,10 +3,11 @@
 version: 0.0.8
 
 __What is this?__
+
 An React component which allows you to create an AppStore Download Button in a few seconds. This button:
 
 * Using vector format, `svg` file , so don't worry about the resolution
-* Can specify your App Store `url`, `width` and `height`
+* Can specify your App Store button with customised `url`, `width` and `height`
 
 
 ## Usage
