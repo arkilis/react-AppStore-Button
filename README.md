@@ -22,12 +22,12 @@ export default (props) => {
 
 	return (
 
-		<AppStoreButton 
+	<AppStoreButton 
           url="https://itunes.apple.com/us/app/my-nbn/id1247260936?mt=8"
           width=165
           height=40
         ></AppStoreButton>
-        <p>
+	
 	);
 }
 
