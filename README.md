@@ -1,6 +1,6 @@
 ## react-appstore-button
 
-version: 0.0.5
+version: 0.0.8
 
 __What is this?__
 An React component which allows you to create an AppStore Download Button in a few seconds. This button:
@@ -48,7 +48,7 @@ npm install --save react-appstore-button
 ```
 
 ## Suppport & Feedback
-If you have any suggestion on this, any `Pull request` is welcome. 
+If you have any suggestion on this, any `Pull request` is welcome, raise an issue on github https://github.com/arkilis/react-AppStore-Button
 
 My email address: arkilis@gmail.com.
 
