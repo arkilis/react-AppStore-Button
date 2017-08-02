@@ -1,6 +1,6 @@
 import React from "react"
 
-const MyComponent = props => {
+const AppStoreButton = props => {
 
     const imgUrl = "http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg";
     const aStyle = {

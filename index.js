@@ -1,5 +1,2 @@
-import AppStoreButton from './lib/AppStoreButton';
-
-module.exports = {
-    AppStoreButton 
-}
+module.exports = require('./lib/AppStoreButton');
+exports.default = require('./lib/AppStoreButton');

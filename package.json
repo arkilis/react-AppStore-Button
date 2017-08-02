@@ -1,6 +1,6 @@
 {
   "name": "react-appstore-button",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "An react component which allows you to place an App Store Download button in few seconds",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "AppStore button",
     "react",
     "react component",
-    "react-component",
+    "react-component"
   ],
   "author": "Yang Liu",
   "license": "MIT",
