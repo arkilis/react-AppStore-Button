@@ -1,6 +1,6 @@
 {
   "name": "react-appstore-button",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "An react component which allows you to place an App Store Download button in few seconds",
   "main": "index.js",
   "scripts": {
